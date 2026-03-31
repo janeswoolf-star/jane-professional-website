@@ -1,0 +1,101 @@
+body {
+    background-color: #E0E1DD;
+    font-family: Veranda, sans-serif;
+    margin: 0px;
+}
+
+main {
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #1B263B;
+}
+
+h2 {
+    text-align: center;
+    color: #E0E1DD;
+}
+
+h3 {
+    text-align: center;
+    color: #E0E1DD;
+}
+
+h4 {
+    text-align: center;
+    color: #E0E1DD;
+}
+
+.top-nav ul {
+    list-style-type: none;
+    background-color: #0D1B2A;
+    overflow: hidden;
+}
+
+.top-nav a{
+    text-decoration: none;
+    color: #E0E1DD;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+.top-nav a:hover{
+    background-color: #778DA9;
+}
+
+.top-nav li{
+    float: left;
+}
+
+.entry{
+    background-color: #1B263B;
+    padding: 10px;
+    border-radius: 1.5em;
+    margin: 10px;
+}
+
+.work-history-list {
+    background-color: #E0E1DD;
+    border-radius: 1.5em;
+    padding: 10px;
+    list-style-position: inside;
+}
+
+.skills-list {
+    background-color: #E0E1DD;
+    border-radius: 1.5em;
+    padding: 10px;
+    list-style-position: inside;
+}
+
+.languages-list {
+    background-color: #E0E1DD;
+    border-radius: 1.5em;
+    padding: 10px;
+    list-style-position: inside;
+}
+
+.about-me {
+    background-color: #E0E1DD;
+    border-radius: 1.5em;
+    padding: 10px;
+}
+
+.education-blurb {
+    background-color: #E0E1DD;
+    border-radius: 1.5em;
+    padding: 10px;
+}
+
+ul {
+    background-color: #E0E1DD;
+}
+
+.divider {
+    border: 3px solid;
+    border-radius: 5px;
+    color: #778DA9;
+}
