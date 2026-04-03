@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     background-color: #F1EDEA;
     font-family: Veranda, sans-serif;
@@ -98,5 +102,9 @@ ul {
 .divider {
     border: 3px solid;
     border-radius: 5px;
-    color: #778DA9;
+    color: #05B084;
+}
+
+img {
+    width: 100%;
 }
