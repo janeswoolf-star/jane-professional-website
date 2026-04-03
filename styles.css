@@ -1,5 +1,5 @@
 body {
-    background-color: #2F6B3F;
+    background-color: #F1EDEA;
     font-family: Veranda, sans-serif;
     margin: 0px;
 }
@@ -10,40 +10,41 @@ main {
 
 h1 {
     text-align: center;
-    color: #1B263B;
+    color: #015A84;
 }
 
 h2 {
     text-align: center;
-    color: #E0E1DD;
+    color: #015A84;
 }
 
 h3 {
     text-align: center;
-    color: #E0E1DD;
+    color: #015A84;
 }
 
 h4 {
     text-align: center;
-    color: #E0E1DD;
+    color: #015A84;
 }
 
 .top-nav ul {
     list-style-type: none;
-    background-color: #0D1B2A;
+    background-color: #05B084;
     overflow: hidden;
 }
 
 .top-nav a{
     text-decoration: none;
-    color: #E0E1DD;
+    color: black;
+    font-weight: bold;
     padding: 15px;
     display: block;
     text-align: center;
 }
 
 .top-nav a:hover{
-    background-color: #778DA9;
+    background-color: #BADFCD;
 }
 
 .top-nav li{
@@ -51,35 +52,35 @@ h4 {
 }
 
 .entry{
-    background-color: #1B263B;
+    background-color: #BADFCD;
     padding: 10px;
     border-radius: 1.5em;
     margin: 10px;
 }
 
 .work-history-list {
-    background-color: #E0E1DD;
+    background-color: #F1EDEA;
     border-radius: 1.5em;
     padding: 10px;
     list-style-position: inside;
 }
 
 .skills-list {
-    background-color: #E0E1DD;
+    background-color: #F1EDEA;
     border-radius: 1.5em;
     padding: 10px;
     list-style-position: inside;
 }
 
 .languages-list {
-    background-color: #E0E1DD;
+    background-color: #F1EDEA;
     border-radius: 1.5em;
     padding: 10px;
     list-style-position: inside;
 }
 
 .about-me {
-    background-color: #E0E1DD;
+    background-color: #F1EDEA;
     border-radius: 1.5em;
     padding: 10px;
 }
